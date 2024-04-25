@@ -76,7 +76,7 @@ const translation = {
           name: 'Forken Sie den Client-Code, ändern Sie ihn und deployen Sie ihn auf Vercel (empfohlen)',
           step1: 'Forken Sie den Client-Code und ändern Sie ihn',
           step1Tip: 'Klicken Sie hier, um den Quellcode in Ihr GitHub-Konto zu forken und den Code zu ändern',
-          step1Operation: 'Dify-WebClient',
+          step1Operation: 'WebClient',
           step2: 'Deployen auf Vercel',
           step2Tip: 'Klicken Sie hier, um das Repository in Vercel zu importieren und zu deployen',
           step2Operation: 'Repository importieren',

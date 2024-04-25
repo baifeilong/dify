@@ -1,5 +1,5 @@
 const translation = {
-  pageTitle: '嗨，欢迎来到国投智能',
+  pageTitle: '嗨，欢迎您！',
   welcome: '登录以继续',
   email: '邮箱',
   emailPlaceholder: '输入邮箱地址',

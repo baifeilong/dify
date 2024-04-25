@@ -147,8 +147,14 @@ const NormalForm = () => {
   return (
     <>
       <div className="w-full mx-auto">
-        <h2 className="text-[32px] font-bold text-gray-900">{t('login.pageTitle')}</h2>
-        <p className='mt-1 text-sm text-gray-600'>{t('login.welcome')}</p>
+        <div className="flex items-center justify-between w-full">
+          <img
+            src="/logo/logo-site.png"
+            className={classNames('block w-auto h-30')}
+            alt="logo"
+          />
+          <h2 className="text-[28px] font-bold text-gray-900">{t('login.pageTitle')}</h2>
+        </div>
       </div>
 
       <div className="w-full mx-auto mt-8">
