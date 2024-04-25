@@ -1,6 +1,6 @@
 const translation = {
-  pageTitle: '嗨，近来可好 👋',
-  welcome: '欢迎来到 Dify, 登录以继续',
+  pageTitle: '嗨，欢迎来到国投智能',
+  welcome: '登录以继续',
   email: '邮箱',
   emailPlaceholder: '输入邮箱地址',
   password: '密码',
@@ -48,7 +48,7 @@ const translation = {
   joinTipStart: '邀请你加入',
   joinTipEnd: '团队',
   invalid: '链接已失效',
-  explore: '探索 Dify',
+  explore: '探索小安',
   activatedTipStart: '您已加入',
   activatedTipEnd: '团队',
   activated: '现在登录',

@@ -74,7 +74,7 @@ gtag('config', 'AW-11217955271"');
             <>
               <Forms />
               <div className='px-8 py-6 text-sm font-normal text-gray-500'>
-                © {new Date().getFullYear()} LangGenius, Inc. All rights reserved.
+                  Copyright © 国投智能（厦门）信息股份有限公司 闽ICP备09012547号
               </div>
             </>
           )}
